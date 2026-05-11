@@ -11,10 +11,10 @@ Passed from "https://github.com/MichelleJiam/LazyPhilosophersTester.git" and "ht
 How to install and run?
 
 ```bash
-git clone https://github.com/21isshak/Philosophers.git
+git clone https://github.com/21isshak/42_Warsaw.git
 ```
 ```bash  
-cd Philosophers
+cd 42_Warsaw/Philosophers
 ```
 ```bash  
 cd philo
