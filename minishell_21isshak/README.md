@@ -10,16 +10,16 @@ Check to_do_list to see for what improvements needs to be done.
 
 ## Installation and Testing
 
-to install this project clone the [repo](https://github.com/21isshak/minishell_21isshak.git)
+to install this project clone the [repo](https://github.com/21isshak/42_Warsaw.git)
 
 ```bash
-git clone https://github.com/21isshak/minishell_21isshak.git
+git clone https://github.com/21isshak/42_Warsaw.git
 ```
 
 then open the repo and do make
 
 ```bash
-cd minishell_21isshak
+cd 42_Warsaw/minishell_21isshak
 ```
 
 ```bash
@@ -30,4 +30,4 @@ make
 ./minishell
 ```
 
-now it is possible to test and work on minishell
+Now it is possible to test and work on minishell
