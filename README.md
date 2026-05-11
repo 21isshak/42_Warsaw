@@ -1,2 +1,2 @@
 # 42_Warsaw
-My projects in 42Warsaw.
+Projects that I am doing during my study in 42Warsaw.
