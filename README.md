@@ -16,4 +16,14 @@ Projects that I am doing during my study in 42Warsaw.
   ├── CPP Module 03
 
   ├── CPP Module 04
+
+  ├── CPP Module 05
+
+  ├── CPP Module 06
+
+  ├── CPP Module 07
+
+  ├── CPP Module 08
+
+  ├── CPP Module 09
 * Other projects are on the way.....
